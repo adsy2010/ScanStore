@@ -1,0 +1,35 @@
+C:\Users\Adam\AppData\Local\Temporary Projects\ScanStore\bin\Debug\ScanStore.exe
+C:\Users\Adam\AppData\Local\Temporary Projects\ScanStore\bin\Debug\ScanStore.pdb
+C:\Users\Adam\AppData\Local\Temporary Projects\ScanStore\obj\x86\Debug\ScanStore.Form1.resources
+C:\Users\Adam\AppData\Local\Temporary Projects\ScanStore\obj\x86\Debug\ScanStore.Properties.Resources.resources
+C:\Users\Adam\AppData\Local\Temporary Projects\ScanStore\obj\x86\Debug\ScanStore.csproj.GenerateResource.Cache
+C:\Users\Adam\AppData\Local\Temporary Projects\ScanStore\obj\x86\Debug\ScanStore.exe
+C:\Users\Adam\AppData\Local\Temporary Projects\ScanStore\obj\x86\Debug\ScanStore.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\bin\Debug\ScanStore.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\bin\Debug\ScanStore.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.Properties.Resources.resources
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.csproj.GenerateResource.Cache
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.ScanStore.resources
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\bin\Debug\ScanStore.exe.config
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.csprojResolveAssemblyReference.cache
+\\adsy7\Projects\ScanStore\ScanStore\bin\Debug\ScanStore.exe.config
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.exe
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.pdb
+\\adsy7\Projects\ScanStore\ScanStore\bin\Debug\ScanStore.exe
+\\adsy7\Projects\ScanStore\ScanStore\bin\Debug\ScanStore.pdb
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Debug\ResolveAssemblyReference.cache
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.ScanStore.resources
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Debug\ScanStore.Properties.Resources.resources
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Debug\GenerateResource.read.1.tlog
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\bin\Debug\ScanStore.exe.config
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\bin\Debug\ScanStore.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\bin\Debug\ScanStore.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Debug\ScanStore.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Debug\ScanStore.ScanStore.resources
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Debug\ScanStore.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Debug\ScanStore.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Debug\ScanStore.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Debug\ScanStore.pdb

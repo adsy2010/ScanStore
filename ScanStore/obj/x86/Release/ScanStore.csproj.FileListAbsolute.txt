@@ -1,0 +1,22 @@
+\\adsy7\Projects\ScanStore\ScanStore\bin\Release\ScanStore.exe.config
+\\adsy7\Projects\ScanStore\ScanStore\bin\Release\ScanStore.exe
+\\adsy7\Projects\ScanStore\ScanStore\bin\Release\ScanStore.pdb
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Release\ResolveAssemblyReference.cache
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.ScanStore.resources
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.Properties.Resources.resources
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Release\GenerateResource.read.1.tlog
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Release\GenerateResource.write.1.tlog
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.exe
+\\adsy7\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\bin\Release\ScanStore.exe.config
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\bin\Release\ScanStore.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\bin\Release\ScanStore.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.ScanStore.resources
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.Properties.Resources.resources
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.csproj.GenerateResource.Cache
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\ScanStore\ScanStore\obj\x86\Release\ScanStore.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\bin\Release\ScanStore.exe.config
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Release\ScanStore.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\ScanStore - Copy\ScanStore\obj\x86\Release\ScanStore.pdb
